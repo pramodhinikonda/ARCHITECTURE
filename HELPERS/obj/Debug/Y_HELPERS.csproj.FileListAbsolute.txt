@@ -1,0 +1,5 @@
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\HELPERS\bin\Debug\Y_HELPERS.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\HELPERS\bin\Debug\Y_HELPERS.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\HELPERS\obj\Debug\Y_HELPERS.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\HELPERS\obj\Debug\Y_HELPERS.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\HELPERS\obj\Debug\Y_HELPERS.csprojResolveAssemblyReference.cache

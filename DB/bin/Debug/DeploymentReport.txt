@@ -1,0 +1,32 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Customers] (Table)
+       [dbo].[Roles] (Table)
+       [dbo].[Tokens] (Table)
+       [dbo].[UserGroupInRoles] (Table)
+       [dbo].[UserGroups] (Table)
+       [dbo].[UserInGroups] (Table)
+       [dbo].[UserInRoles] (Table)
+       [dbo].[UserProfiles] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[FK_Tokens_Users] (Foreign Key)
+       [dbo].[FK_UserGroupInRoles_Roles] (Foreign Key)
+       [dbo].[FK_UserGroupInRoles_UserGroups] (Foreign Key)
+       [dbo].[FK_UserInGroups_UserGroups] (Foreign Key)
+       [dbo].[FK_UserInGroups_Users] (Foreign Key)
+       [dbo].[FK_UserInRoles_Roles] (Foreign Key)
+       [dbo].[FK_UserInRoles_Users] (Foreign Key)
+       [dbo].[FK_UserProfiles_Users] (Foreign Key)
+       [dbo].[FK_Users_Customers] (Foreign Key)
+
+** Supporting actions

@@ -1,0 +1,12 @@
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Y_SERVICE.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Y_SERVICE.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Y_DAL.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Y_HELPERS.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Dapper.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Y_DAL.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Y_HELPERS.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Dapper.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\bin\Debug\Dapper.xml
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\obj\Debug\Y_SERVICE.csprojResolveAssemblyReference.cache
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\obj\Debug\Y_SERVICE.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\SERVICE\obj\Debug\Y_SERVICE.pdb

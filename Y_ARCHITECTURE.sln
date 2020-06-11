@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Y_WEB", "Y_WEB", "{3D14D3BA-885F-4A01-958F-BC3E23B77BB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Y_DAL", "Y_DAL", "{17C5F445-C006-4511-9884-405D5E87F9FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Y_DB", "Y_DB", "{7206917F-223C-4902-AA9B-74422BDF823C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Y_SERVICE", "Y_SERVICE", "{B1536ACB-D9AB-44EF-91D6-B17BD3309465}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Y_HELPERS", "Y_HELPERS", "{C529646B-E36D-4A01-9AB7-C89700E14698}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Y_DB", "DB\Y_DB.sqlproj", "{B8086693-7A01-41FC-AA53-4FEF3FA6933B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y_DAL", "DAL\Y_DAL.csproj", "{C4743211-B9E2-40F7-8240-842DBE4B139D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y_SERVICE", "SERVICE\Y_SERVICE.csproj", "{3FD2B95E-D839-4778-876E-08C465A455B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Y_API", "Y_API", "{DB9DCC3E-B8AE-4F6D-82EE-1704911F951F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y_API", "API\Y_API.csproj", "{4EBC63E9-F974-485C-B0F3-CA4D06F8AFF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y_HELPERS", "HELPERS\Y_HELPERS.csproj", "{284DDA98-2108-4F79-AB6F-A8638C2AAF6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y_WEB", "WEB\Y_WEB.csproj", "{28ED84C5-C1AE-4F5F-9242-0FDD2B3B7F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C4743211-B9E2-40F7-8240-842DBE4B139D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4743211-B9E2-40F7-8240-842DBE4B139D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4743211-B9E2-40F7-8240-842DBE4B139D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4743211-B9E2-40F7-8240-842DBE4B139D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD2B95E-D839-4778-876E-08C465A455B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD2B95E-D839-4778-876E-08C465A455B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD2B95E-D839-4778-876E-08C465A455B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD2B95E-D839-4778-876E-08C465A455B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBC63E9-F974-485C-B0F3-CA4D06F8AFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBC63E9-F974-485C-B0F3-CA4D06F8AFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBC63E9-F974-485C-B0F3-CA4D06F8AFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBC63E9-F974-485C-B0F3-CA4D06F8AFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284DDA98-2108-4F79-AB6F-A8638C2AAF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284DDA98-2108-4F79-AB6F-A8638C2AAF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284DDA98-2108-4F79-AB6F-A8638C2AAF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284DDA98-2108-4F79-AB6F-A8638C2AAF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28ED84C5-C1AE-4F5F-9242-0FDD2B3B7F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28ED84C5-C1AE-4F5F-9242-0FDD2B3B7F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28ED84C5-C1AE-4F5F-9242-0FDD2B3B7F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28ED84C5-C1AE-4F5F-9242-0FDD2B3B7F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8086693-7A01-41FC-AA53-4FEF3FA6933B} = {7206917F-223C-4902-AA9B-74422BDF823C}
+		{C4743211-B9E2-40F7-8240-842DBE4B139D} = {17C5F445-C006-4511-9884-405D5E87F9FD}
+		{3FD2B95E-D839-4778-876E-08C465A455B7} = {B1536ACB-D9AB-44EF-91D6-B17BD3309465}
+		{4EBC63E9-F974-485C-B0F3-CA4D06F8AFF8} = {DB9DCC3E-B8AE-4F6D-82EE-1704911F951F}
+		{284DDA98-2108-4F79-AB6F-A8638C2AAF6A} = {C529646B-E36D-4A01-9AB7-C89700E14698}
+		{28ED84C5-C1AE-4F5F-9242-0FDD2B3B7F48} = {3D14D3BA-885F-4A01-958F-BC3E23B77BB8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sivanraj.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = API\\Y_API.csproj
+		SccProjectTopLevelParentUniqueName1 = Y_ARCHITECTURE.sln
+		SccProjectName1 = API
+		SccLocalPath1 = API
+		SccProjectUniqueName2 = DAL\\Y_DAL.csproj
+		SccProjectTopLevelParentUniqueName2 = Y_ARCHITECTURE.sln
+		SccProjectName2 = DAL
+		SccLocalPath2 = DAL
+		SccProjectUniqueName3 = DB\\Y_DB.sqlproj
+		SccProjectTopLevelParentUniqueName3 = Y_ARCHITECTURE.sln
+		SccProjectName3 = DB
+		SccLocalPath3 = DB
+		SccProjectUniqueName4 = HELPERS\\Y_HELPERS.csproj
+		SccProjectTopLevelParentUniqueName4 = Y_ARCHITECTURE.sln
+		SccProjectName4 = HELPERS
+		SccLocalPath4 = HELPERS
+		SccProjectUniqueName5 = SERVICE\\Y_SERVICE.csproj
+		SccProjectTopLevelParentUniqueName5 = Y_ARCHITECTURE.sln
+		SccProjectName5 = SERVICE
+		SccLocalPath5 = SERVICE
+		SccProjectUniqueName6 = WEB\\Y_WEB.csproj
+		SccProjectTopLevelParentUniqueName6 = Y_ARCHITECTURE.sln
+		SccProjectName6 = WEB
+		SccLocalPath6 = WEB
+	EndGlobalSection
+EndGlobal

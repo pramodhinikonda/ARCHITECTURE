@@ -1,0 +1,10 @@
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Y_DAL.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Y_DAL.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Dapper.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Y_HELPERS.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Y_HELPERS.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Dapper.pdb
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\bin\Debug\Dapper.xml
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\obj\Debug\Y_DAL.csprojResolveAssemblyReference.cache
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\obj\Debug\Y_DAL.dll
+C:\Sivan\Personal\Yuvaa\ARCHITECTURE\DAL\obj\Debug\Y_DAL.pdb
